@@ -1,24 +1,4 @@
 <!-- Meta-Badges -->
-</p>
-
-<p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/IMDb_Sentiment_Analysis_BERT">
-  </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/IMDb_Sentiment_Analysis_BERT">
-  </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/IMDb_Sentiment_Analysis_BERT">
-  </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/IMDb_Sentiment_Analysis_BERT">
-  </a>
-  <a href="https://github.com/InPhyT/IMDb_Sentiment_Analysis_BERT/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/InPhyT/IMDb_Sentiment_Analysis_BERT">
-  </a>
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/IMDb_Sentiment_Analysis_BERT">
-  </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FIMDb_Sentiment_Analysis_BERT"
-  </a>
-  
-</p>
 
 <!-- Title -->
 <h1 align="center">
@@ -31,25 +11,6 @@
 </h3>
 
 <!-- Badges -->
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/inphyt2020/dataminingproject">
-    <img alt="Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg">
-  </a>
-  <a href="https://nbviewer.jupyter.org/github/InPhyT/IMDb_Sentiment_Analysis_BERT/">
-    <img alt="nbviewer" src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg">
-  </a>
-  <a href="https://colab.research.google.com/github/InPhyT/DataMiningProject/blob/master">
-    <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
-  </a>
-  
-</p>
-
-## How to Explore this Work
-
-* Read the code in the [Jupyter notebooks](https://nbviewer.jupyter.org/github/InPhyT/DataMiningProject/blob/master/Notebooks).
-* Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/dataminingproject).
 
 ## Problem: *Sentiment Classification*
 
